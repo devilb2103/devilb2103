@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dev Bhanushali</h1>
+<h1 align="center">Hi 👋, I'm Dev</h1>
 <h3 align="center">Flutter Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devilb2103&label=Profile%20views&color=0e75b6&style=flat" alt="devilb2103" /> </p>
