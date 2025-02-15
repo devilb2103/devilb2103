@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devilb2103" alt="devilb2103" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning, React**
-
-- 💬 Ask me about **Flutter**
-
 - 📫 How to reach me **devbhanushali21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
